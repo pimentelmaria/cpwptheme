@@ -9,8 +9,7 @@
     <meta name="description" content="Blog Site Template">
     <meta name="author" content="https://youtube.com/FollowAndrew">    
     <link rel="shortcut icon" href="images/logo.png"> 
-    
-
+    <!-- <link rel="stylesheet" href="/wp-content/themes/cprepowptheme/style.css"> -->
 	<?php
     wp_head();
     ?>
