@@ -5,3 +5,7 @@ Version: 1.0
 Description: MAIDER - Website
 Author: Developer - Maria Pimentel
 */
+
+body {
+background-color: black;
+}
